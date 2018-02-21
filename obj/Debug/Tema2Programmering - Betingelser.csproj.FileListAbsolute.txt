@@ -1,0 +1,7 @@
+C:\Users\Gordon\source\repos\Tema2Programmering\Tema2Programmering\bin\Debug\Tema2Programmering.exe.config
+C:\Users\Gordon\source\repos\Tema2Programmering\Tema2Programmering\bin\Debug\Tema2Programmering.exe
+C:\Users\Gordon\source\repos\Tema2Programmering\Tema2Programmering\bin\Debug\Tema2Programmering.pdb
+C:\Users\Gordon\source\repos\Tema2Programmering\Tema2Programmering\obj\Debug\Tema2Programmering - Betingelser.csprojResolveAssemblyReference.cache
+C:\Users\Gordon\source\repos\Tema2Programmering\Tema2Programmering\obj\Debug\Tema2Programmering - Betingelser.csproj.CoreCompileInputs.cache
+C:\Users\Gordon\source\repos\Tema2Programmering\Tema2Programmering\obj\Debug\Tema2Programmering.exe
+C:\Users\Gordon\source\repos\Tema2Programmering\Tema2Programmering\obj\Debug\Tema2Programmering.pdb
